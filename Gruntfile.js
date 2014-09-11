@@ -68,7 +68,8 @@ module.exports = function(grunt) {
 			automated: {
 				options: {
 					useEnv: true,
-					serverurl: 'https://login.salesforce.com' // default => https://login.salesforce.com
+					serverurl: 'https://login.salesforce.com',
+					runAllTests: true // default => https://login.salesforce.com
 				},
 				pkg: stdMetadata
 			},
