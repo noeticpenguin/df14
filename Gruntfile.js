@@ -17,7 +17,7 @@ module.exports = function(grunt) {
 		jasmine: {
 			proposalPlus: {
 				// Include paths for both the local user, if we're in dev mode, as well as share mode
-				src: ["src/**/*.js"],
+				src: ["resource-bundles/app.resource/resources/tests/**/*.js"],
 				options: {
 					// Include path for Jasmine spec files
 					// Only include those ending in Spec.js
@@ -54,32 +54,6 @@ module.exports = function(grunt) {
 					dest: 'deployTmp/',
 				}]
 			},
-			// ngApp: {
-			// 	files: [{
-			// 		src: 'src/staticresources/pp_ngApp.resource*',
-			// 		dest: 'deployTmp/'
-			// 	}]
-			// }
-		},
-		less: {
-			compile: {
-				options: {
-					compress: false,
-					paths: ['resource-bundles/bootstrap-cco-src/less', 'tmp', 'resource-bundles/bootstrap-cco-src/bower_components/bootstrap/less']
-				},
-				files: {
-					'resource-bundles/pp_css.resource/pp_css/css/bootstrap3-cco.css': ['resource-bundles/bootstrap-cco-src/less/theme.less']
-				}
-			},
-		},
-		cssmin: {
-			minify: {
-				expand: true,
-				cwd: 'resource-bundles/pp_css.resource/pp_css/css',
-				src: ['bootstrap3-cco.css', '!bootstrap3-cco.min.css'],
-				dest: 'resource-bundles/pp_css.resource/pp_css/css',
-				ext: '.min.css'
-			}
 		},
 		clean: {
 			bootstrap: ['tmp'],
@@ -94,7 +68,7 @@ module.exports = function(grunt) {
 			automated: {
 				options: {
 					useEnv: true,
-					serverurl: 'https://test.salesforce.com' // default => https://login.salesforce.com
+					serverurl: 'https://login.salesforce.com' // default => https://login.salesforce.com
 				},
 				pkg: stdMetadata
 			},
@@ -119,7 +93,7 @@ module.exports = function(grunt) {
 				},
 				pkg: {
 					staticresources: [
-						'pp_ngApp'
+						'jasmine'
 					]
 				}
 			}
@@ -131,11 +105,11 @@ module.exports = function(grunt) {
 			ngApp: {
 				options: {
 					mode: 'zip',
-					archive: 'src/staticresources/pp_ngApp.resource'
+					archive: 'src/staticresources/jasmine.resource'
 				},
 				files: [{
 					expand: true,
-					cwd: 'resource-bundles/pp_ngApp.resource/',
+					cwd: 'resource-bundles/jasmine.resource/',
 					src: ['**'],
 					dest: ''
 				}, ]
@@ -227,7 +201,6 @@ module.exports = function(grunt) {
 						config: 'antdeploy.test.options.user', // arbitray name or config for any other grunt task
 						type: 'input', // list, checkbox, confirm, input, password
 						message: "Enter the Deploy Username: ", // Question to ask the user, function needs to return a string,
-						default: 'ppdeploy@clearchannel.com', // default value if nothing is entered
 					}, {
 						config: 'antdeploy.test.options.pass', // arbitray name or config for any other grunt task
 						type: 'password', // list, checkbox, confirm, input, password
@@ -246,9 +219,7 @@ module.exports = function(grunt) {
 	// Default task.
 	grunt.registerTask('default', 'jasmine');
 	grunt.registerTask('refreshResources', "Refresh the staticResource.zip files", function() {
-		grunt.task.run(['compress:ngApp', 'compress:css', 'compress:output', 'compress:js',
-			'compress:test'
-		]);
+		grunt.task.run(['compress:ngApp']);
 	});
 	grunt.registerMultiTask('deploy', "Refreshes resources and deploys to selected env", function() {
 		grunt.task.run([
@@ -281,5 +252,4 @@ module.exports = function(grunt) {
 
 	grunt.registerTask('tasks', ['availabletasks']);
 	grunt.registerTask('bootstrap', ['copy', 'less', 'cssmin', 'clean:bootstrap']);
-	grunt.registerTask('build', ['bootstrap']);
 };
