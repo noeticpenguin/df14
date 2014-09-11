@@ -105,11 +105,11 @@ module.exports = function(grunt) {
 			ngApp: {
 				options: {
 					mode: 'zip',
-					archive: 'src/staticresources/jasmine.resource'
+					archive: 'src/staticresources/ngf.resource'
 				},
 				files: [{
 					expand: true,
-					cwd: 'resource-bundles/jasmine.resource/',
+					cwd: 'resource-bundles/ngf.resource/',
 					src: ['**'],
 					dest: ''
 				}, ]
