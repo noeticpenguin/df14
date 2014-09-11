@@ -1,3 +1,9 @@
 node_modules
 .DS_Store
 _SpecRunner.html
+config/.local_store
+config/.session
+config/.symbols/Drone_Tests.json
+resource-bundles/.DS_Store
+src/.DS_Store
+src/staticresources/ngf.resource

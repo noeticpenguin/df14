@@ -109,59 +109,11 @@ module.exports = function(grunt) {
 				},
 				files: [{
 					expand: true,
-					cwd: 'resource-bundles/ngf.resource/',
+					cwd: 'resource-bundles/app.resource/',
 					src: ['**'],
 					dest: ''
 				}, ]
 			},
-			css: {
-				options: {
-					mode: 'zip',
-					archive: 'src/staticresources/pp_css.resource'
-				},
-				files: [{
-					expand: true,
-					cwd: 'resource-bundles/pp_css.resource/',
-					src: ['**'],
-					dest: ''
-				}, ]
-			},
-			output: {
-				options: {
-					mode: 'zip',
-					archive: 'src/staticresources/ccpp_output.resource'
-				},
-				files: [{
-					expand: true,
-					cwd: 'resource-bundles/ccpp_output.resource/',
-					src: ['**'],
-					dest: ''
-				}, ]
-			},
-			js: {
-				options: {
-					mode: 'zip',
-					archive: 'src/staticresources/pp_js.resource'
-				},
-				files: [{
-					expand: true,
-					cwd: 'resource-bundles/pp_js.resource/',
-					src: ['**'],
-					dest: ''
-				}, ]
-			},
-			test: {
-				options: {
-					mode: 'zip',
-					archive: 'src/staticresources/pp_test.resource'
-				},
-				files: [{
-					expand: true,
-					cwd: 'resource-bundles/pp_test.resource/',
-					src: ['**'],
-					dest: ''
-				}, ]
-			}
 		},
 		deploy: {
 			test: {
