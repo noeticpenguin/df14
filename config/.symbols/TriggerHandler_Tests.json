@@ -1,0 +1,115 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "TriggerHandler_Tests", 
+    "tableDeclaration": {
+        "type": "TriggerHandler_Tests", 
+        "modifiers": [
+            "TEST"
+        ], 
+        "references": [], 
+        "location": {
+            "column": 14, 
+            "line": 2
+        }, 
+        "name": "TriggerHandler_Tests"
+    }, 
+    "key": "01po0000001k5OxAAI", 
+    "variables": [
+        {
+            "type": "TriggerHandler", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 18, 
+                "line": 5
+            }, 
+            "name": "th"
+        }, 
+        {
+            "type": "LoopCount", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 28, 
+                "line": 16
+            }, 
+            "name": "lc"
+        }, 
+        {
+            "type": "TriggerHandler", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 18, 
+                "line": 24
+            }, 
+            "name": "lc"
+        }, 
+        {
+            "type": "Boolean", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 11, 
+                "line": 25
+            }, 
+            "name": "didSuccessfullyTrapTriggerHandlerException"
+        }
+    ], 
+    "id": "01po0000001k5OxAAI", 
+    "methods": [
+        {
+            "modifiers": [
+                "TEST", 
+                "STATIC"
+            ], 
+            "name": "test_triggerHandlerBasicMethods", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 22, 
+                "line": 4
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "TEST", 
+                "STATIC"
+            ], 
+            "name": "test_loopCountPrivateClass", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 22, 
+                "line": 15
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "TEST", 
+                "STATIC"
+            ], 
+            "name": "test_Non_TriggerExecutionContext", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 22, 
+                "line": 23
+            }, 
+            "returnType": "void", 
+            "type": null
+        }
+    ]
+}

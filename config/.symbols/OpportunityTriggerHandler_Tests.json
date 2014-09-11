@@ -1,0 +1,227 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "OpportunityTriggerHandler_Tests", 
+    "tableDeclaration": {
+        "type": "OpportunityTriggerHandler_Tests", 
+        "modifiers": [
+            "TEST"
+        ], 
+        "references": [], 
+        "location": {
+            "column": 14, 
+            "line": 2
+        }, 
+        "name": "OpportunityTriggerHandler_Tests"
+    }, 
+    "key": "01po0000001k5XQAAY", 
+    "variables": [
+        {
+            "type": "LIST", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 21, 
+                "line": 4
+            }, 
+            "name": "opps"
+        }, 
+        {
+            "type": "Opportunity", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 20, 
+                "line": 5
+            }, 
+            "name": "O"
+        }, 
+        {
+            "type": "Boolean", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 11, 
+                "line": 9
+            }, 
+            "name": "didProperlyFailValidations"
+        }, 
+        {
+            "type": "LIST", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 21, 
+                "line": 21
+            }, 
+            "name": "opps"
+        }, 
+        {
+            "type": "Opportunity", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 20, 
+                "line": 22
+            }, 
+            "name": "O"
+        }, 
+        {
+            "type": "Opportunity", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 20, 
+                "line": 29
+            }, 
+            "name": "O"
+        }, 
+        {
+            "type": "LIST", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 21, 
+                "line": 37
+            }, 
+            "name": "opps"
+        }, 
+        {
+            "type": "Boolean", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 11, 
+                "line": 38
+            }, 
+            "name": "didProperlyHitMaxLoopCount"
+        }, 
+        {
+            "type": "Opportunity", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 20, 
+                "line": 39
+            }, 
+            "name": "O"
+        }, 
+        {
+            "type": "OpportunityTriggerHandler", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 29, 
+                "line": 45
+            }, 
+            "name": "oth"
+        }, 
+        {
+            "type": "LIST", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 21, 
+                "line": 62
+            }, 
+            "name": "opps"
+        }, 
+        {
+            "type": "OpportunityTriggerHandler", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 29, 
+                "line": 76
+            }, 
+            "name": "oth"
+        }
+    ], 
+    "id": "01po0000001k5XQAAY", 
+    "methods": [
+        {
+            "modifiers": [
+                "TEST", 
+                "STATIC"
+            ], 
+            "name": "test_before_insert_validations", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 22, 
+                "line": 3
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "TEST", 
+                "STATIC"
+            ], 
+            "name": "test_after_update", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 22, 
+                "line": 20
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "TEST", 
+                "STATIC"
+            ], 
+            "name": "test_hitMaxLoopCount", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 22, 
+                "line": 36
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "TEST", 
+                "STATIC"
+            ], 
+            "name": "test_callingIsDeleteMethods", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 22, 
+                "line": 61
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "TEST", 
+                "STATIC"
+            ], 
+            "name": "exercise_UnusedContextMethods", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 22, 
+                "line": 67
+            }, 
+            "returnType": "void", 
+            "type": null
+        }
+    ]
+}

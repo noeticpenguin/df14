@@ -1,0 +1,19 @@
+{
+    "username": "kjp-df14@codefriar.com", 
+    "environment": "production", 
+    "project_name": "df14", 
+    "workspace": "/Users/kpoorman/Documents/mmProjects", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "1OQP4XL1R0V63LAIS1IPIEIW6H5MLAHN", 
+    "metadata_container": "1dco0000000ISaRAAW", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}

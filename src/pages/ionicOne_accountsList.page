@@ -1,0 +1,28 @@
+<apex:page showHeader="false"
+sidebar="false"
+standardStylesheets="false"
+docType="html-5.0"
+>
+
+	<ion-view title="Accounts">
+		<ion-nav-buttons side="left">
+			<button menu-toggle="right" class="button button-icon icon ion-navicon"></button>
+		</ion-nav-buttons>
+		<ion-content class="has-header">
+			<ion-list>
+				<ion-item ng-repeat="t in types">
+					<div class="item item-divider">
+					  {{t}}
+					</div>
+					<ion-item ng-repeat="account in accounts | filter:t:strict" ui-sref="app.single({ accountId: account.Id})">
+						<i class="icon ion-ios7-people"></i>
+							{{account.Name}} 
+						<i class="float-right icon ion-ios7-arrow-right"></i>	
+					</ion-item>
+				</ion-item>
+			</ion-list>
+		</ion-content>
+	</ion-view>
+
+	
+</apex:page>

@@ -1,0 +1,19 @@
+<apex:page showHeader="false"
+sidebar="false"
+standardStylesheets="false"
+docType="html-5.0"
+>
+
+	<!-- Include our resources -->
+	<c:ionicOneResources /> 
+	<c:ngforce />
+
+	<!-- ngForce Angular Config -->
+	<!-- NOTE: DO NOT Use a VF include tag for this. -->
+	<script src="{!URLFOR($Page.angular_config)}"></script>
+
+	<body ng-app="ionicOne">
+	  <ion-nav-view></ion-nav-view>
+	</body>
+
+</apex:page>

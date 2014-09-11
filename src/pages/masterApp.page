@@ -1,0 +1,17 @@
+<apex:page showHeader="false"
+sidebar="false"
+standardStylesheets="false"
+docType="html-5.0"
+>
+
+	<!-- Include our resources -->
+	<c:ngApp /> 
+	<c:ngforce />
+
+	<div ng-app="df14" class="container-fluid ui-view-container">
+		<div class="ui-view" id="master-ui-view" style="padding-top: 70px;">
+			<!-- our main content will go here -->
+		</div>
+	</div>
+
+</apex:page>

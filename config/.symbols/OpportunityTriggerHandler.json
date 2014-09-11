@@ -1,0 +1,198 @@
+{
+    "properties": [
+        {
+            "modifiers": [], 
+            "name": "triggerNewMap", 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 44, 
+                "line": 3
+            }, 
+            "type": "Map"
+        }, 
+        {
+            "modifiers": [], 
+            "name": "triggerNew", 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 41, 
+                "line": 4
+            }, 
+            "type": "LIST"
+        }
+    ], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [
+        {
+            "modifiers": [], 
+            "name": "OpportunityTriggerHandler", 
+            "parameters": [], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 9, 
+                "line": 6
+            }, 
+            "type": null
+        }
+    ], 
+    "namespace": null, 
+    "name": "OpportunityTriggerHandler", 
+    "tableDeclaration": {
+        "type": "OpportunityTriggerHandler", 
+        "modifiers": [], 
+        "references": [], 
+        "location": {
+            "column": 14, 
+            "line": 1
+        }, 
+        "name": "OpportunityTriggerHandler"
+    }, 
+    "key": "01po0000001k5XLAAY", 
+    "variables": [
+        {
+            "type": "LIST", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 21, 
+                "line": 22
+            }, 
+            "name": "opps"
+        }, 
+        {
+            "type": "Opportunity", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 20, 
+                "line": 44
+            }, 
+            "name": "o"
+        }
+    ], 
+    "id": "01po0000001k5XLAAY", 
+    "methods": [
+        {
+            "modifiers": [], 
+            "name": "beforeInsert", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 26, 
+                "line": 16
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [], 
+            "name": "afterUpdate", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 26, 
+                "line": 20
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [], 
+            "name": "afterUpdateHitsMaxLoopCount", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 28, 
+                "line": 27
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [], 
+            "name": "beforeUpdate", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 39, 
+                "line": 32
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [], 
+            "name": "beforeDelete", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 39, 
+                "line": 33
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [], 
+            "name": "afterInsert", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 39, 
+                "line": 34
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [], 
+            "name": "afterDelete", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 39, 
+                "line": 35
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [], 
+            "name": "afterUndelete", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 39, 
+                "line": 36
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [], 
+            "name": "runValidations", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 15, 
+                "line": 43
+            }, 
+            "returnType": "void", 
+            "type": null
+        }
+    ]
+}

@@ -1,0 +1,3436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isTest"
+			],
+			[
+				"loo",
+				"PUBLIC LoopCount()"
+			],
+			[
+				"Trig",
+				"TriggerHandler	[Custom Apex Class]"
+			],
+			[
+				"Opp",
+				"OpportunityTriggerHandler	[Custom Apex Class]"
+			],
+			[
+				"filt",
+				"filtered2"
+			],
+			[
+				"filtere",
+				"filterUnwantedRecordTypes"
+			],
+			[
+				"recordTye",
+				"recordTypeMap"
+			],
+			[
+				"filter",
+				"filterUnwantedRecordTypes"
+			],
+			[
+				"pr",
+				"provider	Angular.js"
+			],
+			[
+				"tab",
+				"tabResultsForPanel"
+			],
+			[
+				"demog",
+				"demographic"
+			],
+			[
+				"get",
+				"getDemographicNameByKey"
+			],
+			[
+				"demo",
+				"demographic"
+			],
+			[
+				"Tab_re",
+				"Tab_Result__c"
+			],
+			[
+				"fied",
+				"fieldsToSummarize"
+			],
+			[
+				"gen",
+				"generatePanelDataObj"
+			],
+			[
+				"Demo",
+				"Demographic__r"
+			],
+			[
+				"sele",
+				"selectedPlis"
+			],
+			[
+				"parsed",
+				"parsedName"
+			],
+			[
+				"name",
+				"nameMinusGender"
+			],
+			[
+				"ngFor",
+				"ngForceUtils"
+			],
+			[
+				"query",
+				"queryAll"
+			],
+			[
+				"select",
+				"selectedProxyIndex"
+			],
+			[
+				"req",
+				"requestCount"
+			],
+			[
+				"SF",
+				"SFDCLoadBalancer"
+			],
+			[
+				"SFDC",
+				"SFDCLoadBalancer"
+			],
+			[
+				"cartTable",
+				"cartTableMetrics"
+			],
+			[
+				"flight",
+				"flightData"
+			],
+			[
+				"state",
+				"statePromisedData"
+			],
+			[
+				"dur",
+				"durationInWeeks"
+			],
+			[
+				"Cart",
+				"CartService"
+			],
+			[
+				"null",
+				"nullArray"
+			],
+			[
+				"rfPlan",
+				"rfPlanByWeek"
+			],
+			[
+				"curr",
+				"currentLoadingData"
+			],
+			[
+				"panel",
+				"panelDemoAudienceResultSets"
+			],
+			[
+				"return",
+				"returnResults"
+			],
+			[
+				"addi",
+				"additionalDemoObjects"
+			],
+			[
+				"ea",
+				"_.each	_Collection"
+			],
+			[
+				"getAd",
+				"getAdditionalPagesGenerator"
+			],
+			[
+				"pda",
+				"pdaResource"
+			],
+			[
+				"pdares",
+				"pdaResourceWithPage"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"basic",
+				"basicGridWithWarnings"
+			],
+			[
+				"grid",
+				"gridWithImpressionsData"
+			],
+			[
+				"pfli",
+				"pFlightData"
+			],
+			[
+				"Kendo",
+				"KendoGridService"
+			],
+			[
+				"PanelDemo",
+				"PanelDemoAudienceResultSets"
+			],
+			[
+				"Ty",
+				"Type__c"
+			],
+			[
+				"tem",
+				"templateString"
+			],
+			[
+				"te",
+				"templateString"
+			],
+			[
+				"lock",
+				"PUBLIC lockable	String"
+			],
+			[
+				"schem",
+				"schemaAndColumns"
+			],
+			[
+				"search",
+				"searchResults"
+			],
+			[
+				"data",
+				"dataSource"
+			],
+			[
+				"isUndef",
+				"isUndefinedOrNull"
+			],
+			[
+				"table",
+				"tableRecords"
+			],
+			[
+				"page",
+				"pageSize"
+			],
+			[
+				"se",
+				"setupObj"
+			],
+			[
+				"kendo",
+				"kendoDataGrid"
+			],
+			[
+				"schema",
+				"schemaColumns"
+			],
+			[
+				"field",
+				"fieldPath__c"
+			],
+			[
+				"Vali",
+				"Validation_Maximum__c"
+			],
+			[
+				"Validat",
+				"Validation_Maximum__c"
+			],
+			[
+				"ken",
+				"kendoDataGrid"
+			],
+			[
+				"busines",
+				"businesses"
+			],
+			[
+				"bus",
+				"businessInflect"
+			],
+			[
+				"selected",
+				"selectedNetworkNames"
+			],
+			[
+				"known",
+				"knownBusinesses"
+			],
+			[
+				"functo",
+				"function"
+			],
+			[
+				"std",
+				"stdMetadata"
+			],
+			[
+				"Finger",
+				"FingerprintService"
+			],
+			[
+				"finger",
+				"fingerprint"
+			],
+			[
+				"getcon",
+				"getConsoleLog"
+			],
+			[
+				"getcanvas",
+				"getCanvasMultiplicationResult"
+			],
+			[
+				"fing",
+				"fingerprint"
+			],
+			[
+				"getTime",
+				"getTimezoneOffset  (function)"
+			],
+			[
+				"Fing",
+				"FingerprintService"
+			],
+			[
+				"Net",
+				"NetworkService"
+			],
+			[
+				"cah",
+				"cacheBusinessesInService"
+			],
+			[
+				"qtr",
+				"qtrSourceKeys"
+			],
+			[
+				"button",
+				"bs3-button:warning	bs3-button-warning"
+			],
+			[
+				"vert",
+				"verticalsTreeArr"
+			],
+			[
+				"prom",
+				"promiseData"
+			],
+			[
+				"asser",
+				"assertEquals()"
+			],
+			[
+				"aa",
+				"PUBLIC addAll(LIST elements) 	void"
+			],
+			[
+				"Old",
+				"oldVersion"
+			],
+			[
+				"acc",
+				"accountId"
+			],
+			[
+				"new",
+				"newList	Instantiate a new List"
+			],
+			[
+				"Op",
+				"Opportunity	[Sobject Name]"
+			],
+			[
+				"thisopps",
+				"thisOppsAccountsFirstOpp"
+			],
+			[
+				"this",
+				"thisOppsAccount"
+			],
+			[
+				"contains",
+				"PUBLIC contains(String str) 	Boolean"
+			],
+			[
+				"test",
+				"testCountry"
+			],
+			[
+				"Close",
+				"CloseDate"
+			],
+			[
+				"k",
+				"PUBLIC containsKey(ANY key) 	Boolean"
+			],
+			[
+				"Acc",
+				"accountId"
+			],
+			[
+				"child",
+				"childAccounts"
+			],
+			[
+				"cou",
+				"country"
+			],
+			[
+				"accouts",
+				"accountsWithChildObjects"
+			],
+			[
+				"opp",
+				"opportunities"
+			],
+			[
+				"Test",
+				"TestUtils	[Custom Apex Class]"
+			],
+			[
+				"Country",
+				"Country__c"
+			],
+			[
+				"countr",
+				"countries"
+			],
+			[
+				"ow",
+				"ownerId"
+			],
+			[
+				"Medai",
+				"MediaTypeService"
+			],
+			[
+				"Demograp",
+				"DemographicsService"
+			],
+			[
+				"logg",
+				"LoggingService"
+			],
+			[
+				"Logging",
+				"LoggingService"
+			],
+			[
+				"local",
+				"localDemographics"
+			],
+			[
+				"Deo",
+				"DemographicsService"
+			],
+			[
+				"demograpi",
+				"DemographicsService"
+			],
+			[
+				"only",
+				"onlyInNg"
+			],
+			[
+				"activ",
+				"activeFlightDemographics"
+			],
+			[
+				"sfFlightsDemograp",
+				"FlightService.sfFlightsDemographic.get"
+			],
+			[
+				"ng",
+				"ngSelectedDemos"
+			],
+			[
+				"selec",
+				"selectedDemographics"
+			],
+			[
+				"cache",
+				"cacheEnabled"
+			],
+			[
+				"Obj",
+				"Object_API_Name__c"
+			],
+			[
+				"SearchSeri",
+				"SearchService"
+			],
+			[
+				"fli",
+				"flight__r"
+			],
+			[
+				"Plans",
+				"plans_and_flights__c	[Sobject Name]"
+			],
+			[
+				"d",
+				"PUBLIC deserialize(String jsonString, system.Type apexType) 	Object"
+			],
+			[
+				"$scope.dem",
+				"$scope.mixinDemoData"
+			],
+			[
+				"mixi",
+				"mixinDemoData"
+			],
+			[
+				"angu",
+				"angular.forEach	AngularJS"
+			],
+			[
+				"row",
+				"rowData"
+			],
+			[
+				"re",
+				"returnedData"
+			],
+			[
+				"requests",
+				"requests"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/classes/TriggerHandler_Tests.cls",
+			"settings":
+			{
+				"buffer_size": 1091,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/TestUtils.cls",
+			"settings":
+			{
+				"buffer_size": 1775,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/OpportunityTriggerHandler_Tests.cls",
+			"settings":
+			{
+				"buffer_size": 2218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/triggers/OriginalOpportunity.trigger",
+			"settings":
+			{
+				"buffer_size": 617,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/OpportunityTriggerHandler.cls",
+			"settings":
+			{
+				"buffer_size": 1561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/triggers/OpportunityTrigger.trigger",
+			"settings":
+			{
+				"buffer_size": 195,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/kpoorman/Copy/Presentations/Triggers-The Right way/triggers Walkthrough.java",
+			"settings":
+			{
+				"buffer_size": 5060,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 103.0,
+		"selected_items":
+		[
+			[
+				"trigger",
+				"MavensMate: New Apex Trigger"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"astyt",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"form",
+				"Format Code"
+			],
+			[
+				"run apex",
+				"MavensMate: Run Apex Tests..."
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"visual",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"depl",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"dep",
+				"MavensMate: Deploy To Server..."
+			],
+			[
+				"visualf",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"resource bund",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"resource",
+				"MavensMate: Create Resource Bundle..."
+			],
+			[
+				"resour",
+				"MavensMate: Create Resource Bundle..."
+			],
+			[
+				"resou",
+				"MavensMate: Create Resource Bundle..."
+			],
+			[
+				"format",
+				"Format Code"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"fort",
+				"Format Code"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"depn",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"depl res",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"depl ser",
+				"MavensMate: Deploy To Server..."
+			],
+			[
+				"depre",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"evernote",
+				"Evernote: Search Note"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"paclist",
+				"Package Control: List Packages"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"compon",
+				"MavensMate: New Visualforce Component"
+			],
+			[
+				"depln",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"deplo",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"alli",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"beaut",
+				"Javascript Beautify"
+			],
+			[
+				"forma",
+				"Format Code"
+			],
+			[
+				"deplng",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"dpel",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"deplb",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"sublimecode",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"epl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"deploy",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ascii",
+				"ASCII Decorator: Generate Font Test"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"depol",
+				"RubyMotionBuilder: Deploy"
+			],
+			[
+				"package en",
+				"Package Control: Enable Package"
+			],
+			[
+				"syn sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"dedpl",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"dpe",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"dpen",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"depk",
+				"Package Control: Disable Package"
+			],
+			[
+				"github pr",
+				"GitHub: Private Gist from Selection"
+			],
+			[
+				"sublim",
+				"Sublimall: Upload"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ng",
+				"GoSublime: New Go File"
+			],
+			[
+				"jsbea",
+				"Javascript Beautify"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"subli",
+				"Sublimall: Upload"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Depl",
+				"MavensMate: Deploy To Server..."
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"todo",
+				"Set Syntax: Todo"
+			],
+			[
+				"new",
+				"Tasks: New document"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"formatcode",
+				"Format Code"
+			],
+			[
+				"f",
+				"Format Code"
+			],
+			[
+				"beautif",
+				"Javascript Beautify"
+			],
+			[
+				"beau",
+				"Javascript Beautify"
+			],
+			[
+				"de",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"beauti",
+				"Javascript Beautify"
+			],
+			[
+				"deplres",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"deployr",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"deployresour",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"deplr",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"depres",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"depl n",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"sublimecode ",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"reso",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"deplre",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"depl ",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"packagesy",
+				"Package Syncing: Push Settings"
+			],
+			[
+				"pac insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"packagecontrol",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"class",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"apexcla",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"apexcl",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"trigg",
+				"MavensMate: New Apex Trigger"
+			],
+			[
+				"apextr",
+				"MavensMate: New Apex Trigger"
+			],
+			[
+				"tasn",
+				"Tasks: New document"
+			],
+			[
+				"new ",
+				"Tasks: New document"
+			],
+			[
+				"markdown cheat",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pacakge list",
+				"Package Control: List Packages"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"tests",
+				"MavensMate: Run Apex Tests..."
+			],
+			[
+				"apex sc",
+				"MavensMate: New Apex Script..."
+			],
+			[
+				"apextest",
+				"MavensMate: Run Apex Tests..."
+			],
+			[
+				"sublima",
+				"Sublimall: Upload"
+			],
+			[
+				"upload",
+				"Sublimall: Upload"
+			],
+			[
+				"prefs",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"sublimall upload",
+				"Sublimall: Upload"
+			],
+			[
+				"apexte",
+				"MavensMate: Run Apex Tests..."
+			],
+			[
+				"rtest",
+				"MavensMate: Run Apex Tests..."
+			],
+			[
+				"apex",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"clas",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"apextes",
+				"MavensMate: Run Apex Tests..."
+			],
+			[
+				"calss",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"apextests",
+				"MavensMate: Run Apex Tests..."
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"apexc",
+				"MavensMate: New Apex Class"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 408.0,
+		"history":
+		[
+			"import urllib.request, os, hashlib; pf = 'QuantifiedDev.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));by = urllib.request.urlopen('http://app.quantifieddev.org/' + pf.replace(' ', '%20') ).read();open(os.path.join(ipp, pf), 'wb').write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kpoorman/Documents/mmProjects/df14",
+		"/Users/kpoorman/Documents/mmProjects/df14/src",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/classes",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/triggers"
+	],
+	"file_history":
+	[
+		"/Users/kpoorman/Documents/mmProjects/df14/src/classes/OpportunityTriggerHandler.cls",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/classes/TriggerHandler.cls",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/triggers/OpportunityTrigger.trigger",
+		"/Users/kpoorman/Library/Application Support/Sublime Text 3/Packages/User/Apex.sublime-settings",
+		"/Users/kpoorman/Library/Application Support/Sublime Text 3/Packages/User/Java.sublime-settings",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/components/ngApp.component",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/components/serversideResources.component",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/app/app.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/df14_nav.page",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/app/config.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/app/constants.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/app/routes.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/masterApp.page",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForceWithDependencies.min.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/components/localhostResources.component",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce2/ngForceWithDependencies.min.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce2/ngForce-dependencies.min.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/app/run.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/controllers/masterAppPageCtrl.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/df14Demo.page",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-sfTemplate.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-visualForceRemoting.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-remoteObjects.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-sfrquery.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-sfrfile.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-sfrBackend.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-sfrAnalytics.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-multipart.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-encodedUriQuery.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/fonts/fontawesome-webfont.svg",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/fonts/FontAwesome.otf",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ng/angular-touch.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-sfr.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/lib/safeApply.min.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/lib/restangular.min.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/lib/restangular.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/staticresources/ngf.resource",
+		"/Users/kpoorman/src/ui-utils/gruntFile.js",
+		"/Users/kpoorman/.ssh/config",
+		"/Users/kpoorman/.zshrc",
+		"/Users/kpoorman/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ngf.resource/app.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/components/PP_Resources_Dev.component",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/components/PP_Resources.component",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/ngForce.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/ppUtils.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/pages/PP_Pricing.page",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/classes/PDMCalloutService.cls",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/controllers/cartCtrl.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/components/PP_Resources_Auto.component",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/classes/pp_SearchController.cls",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/node_modules/grunt-cli/node_modules/resolve/test/resolver.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/node_modules/load-grunt-config/node_modules/lodash-node/compat/internals/reEscapedHtml.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/classes/RestClient.cls",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/demographicsService.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/dev.zsh",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/objects/PP_Developer_Settings__c.object",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/DroneIo.build",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/Gruntfile.js",
+		"/Users/kpoorman/Library/Containers/it.bloop.airmail.beta8/Data/Library/Application Support/Airmail/a2pwQGJyaWdodGxlYWZzb2Z0d2FyZS5jb20=/AttachmentsNg/CAJOx+U2cUDm01M_ROv-CqkuvGfTpDfLiSfojLUwp2e-n70abmQ@mail.gmail.com/apex-07L8000003Y7pXUEAZ.log",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/kendoGridDataSourceService.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/corsTest.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/application.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/httpEndpointLoadBalancerService.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/panelBookingService.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/proxyFlipState.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/pages/ProposalPlus.page",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/flightService.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/controllers/FlightTabsCtrl.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/classes/FlightAndPlanTriggerHandler.cls",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/pdmService.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/controllers/proposalPlusCtrl.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/ppSettingsService.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/cartService.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/ClearChannel_ProposalPlus_ppDevK.sublime-project",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/grunt/jasmine.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/grunt/copy.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/grunt/availabletasks.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/pages/PP_SS_FlightPanelsPartial.page",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/kendoGridService.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_js.resource/pp_js/spin.min.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/directives/angular-ladda.min.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_css.resource/pp_css/css/ladda-themeless.min.css",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_js.resource/pp_js/ladda.min.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/marketsService.js",
+		"/Users/kpoorman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/kpoorman/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/Users/kpoorman/Dropbox/Mackup/Library/Application Support/Sublime Text 3/Packages/User/base16-ocean.dark (SL).tmTheme",
+		"/Users/kpoorman/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/pages/PP_advancedSearchModal.page",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/package.json",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/package.xml",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/temporary/node_modules/package/lib/package.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/deploy/kevinp@madronasg.com.cco.appirioc2/2014-03-12 14:24:23/unpackaged/triggers/PlansAndFlightsTrigger.trigger",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/.grunt/grunt-contrib-jasmine/resource-bundles/pp_ngApp.resource/pp_ngApp/services/cartService.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/cors_server.py",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/server.pem",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_js.resource/pp_js/queryParams.js",
+		"/Users/kpoorman/Library/Application Support/Sublime Text 3/Packages/Evernote/Evernote.sublime-settings",
+		"/Users/kpoorman/Library/Application Support/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/bin/coverage/index.html",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/import-no-semi.less",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/node_modules/grunt-template-jasmine-istanbul/node_modules/istanbul/lib/instrumenter.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/install.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/.grunt/grunt-contrib-jasmine/es5-shim.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/node_modules/grunt-contrib-less/node_modules/less/lib/less/extend-visitor.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/node_modules/grunt/lib/grunt/event.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/controllers/gridViewCtrl.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/networkService.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/searchService.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/classes/PDMCalloutService_Test.cls",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/pages/TextEntryPopup.page",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/classes/TriggerHandler.cls",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/README.md",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/classes/PP_Resources_Auto_Ctrl.cls",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/node_modules/grunt/node_modules/minimatch/node_modules/lru-cache/test/foreach.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/triggers/PlansAndFlightsTrigger.trigger",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/.grunt/grunt-contrib-jasmine/resource-bundles/pp_ngApp.resource/pp_ngApp/services/demographicsService.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/ccpp_output.resource/outputApp/services/demographicsService.js",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/objects/Demographic__c.object",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/templates/PP_Nav.html",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/templates/PP_Pricing.html",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/classes/PDM_PDAResults.cls",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/objects/PP_Panel_Proximity__c.object",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/pages/PP_Nav.page",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/staticresources/pp_ngApp.resource",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/data/Grid_Control_Fieldset_Data.csv",
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/gridColumnService.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/controllers",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp",
+			"<project>",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/directives",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services",
+			"<project>",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp",
+			"<project>",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/pages",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/pages",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource",
+			"<project>",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/pages",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK",
+			"<project>",
+			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/",
+			"<project>",
+			"/Users/kpoorman/mmProjects/Clear Channel Proposal Plus C2/src/classes",
+			"/Users/kpoorman/mmProjects/Clear Channel Proposal Plus C2/src",
+			"/Users/kpoorman/Documents/mavensmate/Clear Channel Outdoor PPlus2/src",
+			"/Users/kpoorman/Documents/mavensmate/Clear Channel Outdoor PPlus2",
+			"<project>",
+			"/Users/kpoorman/Documents/mavensmate/Clear Channel Outdoor PPlus2",
+			"<project>",
+			"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers",
+			"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/triggers",
+			"<project>",
+			"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/",
+			"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/triggers",
+			"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers",
+			"<project>",
+			"/Users/kpoorman/Documents/mavensmate/adap Sandbox",
+			"<project>",
+			"/Users/kpoorman/Documents/mavensmate/adap Sandbox",
+			"<project>",
+			"*.js",
+			"/Users/kpoorman/Documents/mavensmate/AngularAdaptv/src/pages",
+			"<project>",
+			"/Users/kpoorman/Documents/mavensmate/AngularAdaptv",
+			"<project>",
+			"/Users/kpoorman/Documents/mavensmate/AngularAdaptv",
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"oth",
+			"newFoo__cMap",
+			"ngforce",
+			"ngForce",
+			";",
+			"=",
+			"vfRemote.",
+			"vfRemote",
+			"min.js",
+			"<apex:includeScript value=\"{!URLFOR($Resource.app, '",
+			"')}",
+			"pp_css",
+			"y",
+			"z",
+			"format`",
+			"'",
+			"model",
+			"$log.log",
+			"v_feedBinary",
+			"v_fileIn",
+			"v_input",
+			"v_textSegment",
+			"v_messageInput",
+			"td",
+			"%26",
+			"%3D",
+			"%3F",
+			"%3A",
+			"%2F",
+			", ",
+			"proxyState",
+			"proxyFlipState",
+			"whichProxy",
+			"SFDC_PROXY_ENDPOINT",
+			"prox",
+			"custom settings have not",
+			"pp settings have not",
+			"SFTEMPLATES_TO_PRECACHE",
+			"Interceptor",
+			"ladda",
+			"cartMetrics",
+			"getCartPlis",
+			"getcartPanels",
+			"getCartPlis",
+			"$scope",
+			"getFlightData",
+			"activeFlight",
+			"getactiveFlight",
+			"nghref",
+			"\"",
+			"warn",
+			"queryAll",
+			".queryAll(",
+			"Grid: Setting Selected",
+			"queryAll",
+			"vfr.query",
+			"\"",
+			" \\+\\n\\t\\t\"",
+			"')}",
+			"8000",
+			"http://",
+			"<apex:includeScript value=\"{!URLFOR($Resource.pp_ngApp, '",
+			"log.log",
+			"extractGender",
+			"addToTabDemosResult",
+			"fetchTabDemoData",
+			"debug",
+			"addToTabDemosResult",
+			"Please check impressions data for errors",
+			"fetchResultsFromPDMAndTransform",
+			"\\$log\\.debug",
+			"fakePanels",
+			"Product_Code__c",
+			"fakePanels",
+			"\\<\\/{0,1}fullName\\>{1,}",
+			"\\<.fullName\\>",
+			"sfrquery",
+			"panel\\-warnings",
+			"panel-warnings",
+			"panel-warnings=\"",
+			");\n",
+			"addRestrictionWarnings",
+			"Caught an error while trying to get restrictions",
+			"\\+",
+			"getPanelBookingSubquery",
+			"getPanelBookingQuery",
+			"\\n",
+			"getUTCFullYear",
+			"tableRecords",
+			"gridWithAvailabilityData",
+			"activeflight",
+			"addImpressions",
+			"pflight",
+			"gridData",
+			".*\\t",
+			" ",
+			"\\s{2,}",
+			" {2,}",
+			"\\n",
+			"Last_Change_Type__c != 'D'",
+			"flightService",
+			"glyphicon-warning-sign",
+			"warning",
+			"popup",
+			"warnings-Popover-Popup",
+			"glyphicon-warning-sign",
+			"activeFlight",
+			"flightData",
+			"getColumns",
+			"\" \\+\\n\\t\\t\"",
+			",",
+			"return",
+			"\"",
+			"getImpressions",
+			"demograph",
+			"demographics",
+			"vfr.",
+			"vertical",
+			"ProductKey__c",
+			"PanelDemoAudience",
+			" });",
+			",",
+			": ",
+			"$log.log",
+			"$log",
+			"schemaAndColumns",
+			"\\n",
+			"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",",
+			":",
+			"",
+			"this",
+			"js",
+			"<script type=\"text/javascript\" src=\"https://localhost:8000/",
+			"",
+			"th",
+			"&",
+			"=",
+			"?",
+			":",
+			"/",
+			"\\n",
+			"",
+			"8001",
+			"https://",
+			"<script type=\"text/javascript\" src=\"http://localhost:8000/",
+			"console.log",
+			"'",
+			"  ",
+			" ",
+			"gridWithMissingFieldsData",
+			"gridWithDistanceData",
+			"gridWithWarningData",
+			"pFlight",
+			"",
+			"+",
+			" ",
+			"",
+			"Last_Change_Type__c = 'U'",
+			"Last_Change_Type__c != 'U'",
+			"",
+			"\\n",
+			"retValue =",
+			"retValue",
+			"'",
+			"\"",
+			"=\"",
+			"",
+			"\\\"",
+			"kdGrid",
+			"tableRecords",
+			", ",
+			"$scope.flightData",
+			"flightData",
+			"bo-if",
+			"console.log",
+			"$log.debug(",
+			"btn-sm",
+			"ISELL",
+			"",
+			"Opportunity",
+			"childObj",
+			"ChildObjectTypes",
+			"affectedRecords",
+			"queryString",
+			"stringOfChildObjectsToChange",
+			"newVersionOfAccount",
+			"this.triggerNew",
+			"this.oldAccountMap",
+			"Account",
+			"\\n",
+			"process.env",
+			"src",
+			"flightData.selectedExplicitFieldName",
+			"$log.info(",
+			"flight",
+			"$log.info(",
+			"MarketsService.",
+			"$log.info(",
+			"log.info(",
+			"$log",
+			"service",
+			"LoggingService.",
+			"tag, obj, service",
+			"DemographicsService.l(",
+			"pp_kevin_",
+			"$scope.mixinDemoData",
+			";",
+			"fieldPath__c}']",
+			"fieldPath__c}'",
+			"'{!col",
+			"Type__c}'",
+			"{!col.",
+			":",
+			"Type__c==",
+			"Type__c",
+			"type__c",
+			"fieldPath__c",
+			"FlightService.flightData.",
+			"FlightService.sfFlightMarkets",
+			"sfFlightMarkets",
+			"flightData",
+			"\"1\"",
+			"\"\"",
+			"",
+			"has-success",
+			"has-info",
+			"has-error",
+			"has-warning",
+			"form-group",
+			"sfrquery",
+			"",
+			"col.",
+			"ng-switch-when",
+			"$q",
+			"nav",
+			"title",
+			"\"",
+			"",
+			", \\n",
+			": false\\n",
+			": true\\n",
+			"event",
+			"href=\"#/",
+			"]]",
+			"[[",
+			"bananapants/",
+			".bp,",
+			"Cascade_Insert_Id2__c",
+			"jsonTxt",
+			"readOnly",
+			"<td>$1</td>",
+			"inputText",
+			"inputField",
+			"",
+			"', "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/classes/TriggerHandler_Tests.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1089,
+								1089
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/classes/TestUtils.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								985,
+								985
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 272.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/classes/OpportunityTriggerHandler_Tests.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1079,
+								1079
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 776.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/triggers/OriginalOpportunity.trigger",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 617,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								590,
+								590
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/classes/OpportunityTriggerHandler.cls",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								744,
+								744
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/triggers/OpportunityTrigger.trigger",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								195
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/kpoorman/Copy/Presentations/Triggers-The Right way/triggers Walkthrough.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								752,
+								752
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 128.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "df14.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ngforce",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/ngForce.js"
+			],
+			[
+				"pputils",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/ppUtils.js"
+			],
+			[
+				"pp_resour",
+				"src/components/PP_Resources.component"
+			],
+			[
+				"resource_dev",
+				"src/components/PP_Resources_Dev.component"
+			],
+			[
+				"pp_resou",
+				"src/components/PP_Resources_Dev.component"
+			],
+			[
+				"applica",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/application.js"
+			],
+			[
+				"ppreso",
+				"src/components/PP_Resources_Dev.component"
+			],
+			[
+				"proxy",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/proxyFlipState.js"
+			],
+			[
+				"cartct",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/controllers/cartCtrl.js"
+			],
+			[
+				"resources",
+				"src/components/PP_Resources_Dev.component"
+			],
+			[
+				"resource",
+				"src/components/PP_Resources.component"
+			],
+			[
+				"ppsettings",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/ppSettingsService.js"
+			],
+			[
+				"demogra",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/demographicsService.js"
+			],
+			[
+				"pdmser",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/pdmService.js"
+			],
+			[
+				"pdm",
+				"src/classes/PDMCalloutService.cls"
+			],
+			[
+				"kendogrid",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/kendoGridService.js"
+			],
+			[
+				"resourcesdev",
+				"src/components/PP_Resources_Dev.component"
+			],
+			[
+				"resour",
+				"src/components/PP_Resources.component"
+			],
+			[
+				"cartser",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/cartService.js"
+			],
+			[
+				"flightser",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/flightService.js"
+			],
+			[
+				"demog",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/demographicsService.js"
+			],
+			[
+				"pp_resources_dev",
+				"src/components/PP_Resources_Dev.component"
+			],
+			[
+				"pp_res",
+				"src/components/PP_Resources_Auto.component"
+			],
+			[
+				"resources.",
+				"src/components/PP_Resources.component"
+			],
+			[
+				"app",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/application.js"
+			],
+			[
+				"demographics",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/demographicsService.js"
+			],
+			[
+				"test.cls",
+				"src/classes/PDMCalloutService_Test.cls"
+			],
+			[
+				"dem",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/demographicsService.js"
+			],
+			[
+				"pp_pricing",
+				"src/pages/PP_Pricing.page"
+			],
+			[
+				"ppnav",
+				"src/pages/PP_Nav.page"
+			],
+			[
+				"gridview",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/controllers/gridViewCtrl.js"
+			],
+			[
+				"reso",
+				"src/components/PP_Resources.component"
+			],
+			[
+				"gender",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/gender.js"
+			],
+			[
+				"pdmcall",
+				"src/classes/PDMCalloutService.cls"
+			],
+			[
+				"panelbook",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/panelBookingService.js"
+			],
+			[
+				"searchgridro",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/searchGridRowsService.js"
+			],
+			[
+				"ngforcemoc",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/mocks/ngForceMocks.js"
+			],
+			[
+				"ngfor",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/ngForce.js"
+			],
+			[
+				"flightserv",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/flightService.js"
+			],
+			[
+				"resou",
+				"src/components/PP_Resources.component"
+			],
+			[
+				"pdm_",
+				"src/classes/PDM_PDAResults.cls"
+			],
+			[
+				"pdmcallout",
+				"src/classes/PDMCalloutService.cls"
+			],
+			[
+				"pp_reso",
+				"src/components/PP_Resources.component"
+			],
+			[
+				"searc",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/searchService.js"
+			],
+			[
+				"panelsearch",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/panelSearchTableService.js"
+			],
+			[
+				"ppsear",
+				"src/classes/pp_SearchController.cls"
+			],
+			[
+				"pp_searc",
+				"src/classes/pp_SearchController.cls"
+			],
+			[
+				"search",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/searchService.js"
+			],
+			[
+				"searchser",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/searchService.js"
+			],
+			[
+				"pp_search",
+				"src/classes/pp_SearchController.cls"
+			],
+			[
+				"demo",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/demographicsService.js"
+			],
+			[
+				"",
+				".gitignore"
+			],
+			[
+				"demop",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/demographicsService.js"
+			],
+			[
+				"pricing",
+				"src/pages/ProposalPlus_Pricing.page"
+			],
+			[
+				"proposalplus_nav",
+				"src/pages/ProposalPlus_Nav.page"
+			],
+			[
+				"pp_sear",
+				"src/classes/pp_SearchController.cls"
+			],
+			[
+				"pror",
+				"src/components/ProposalPlusResources.component"
+			],
+			[
+				"proposal",
+				"src/pages/ProposalPlus.page"
+			],
+			[
+				"pppage",
+				"src/pages/ProposalPlus_SS_FlightsPartial.page"
+			],
+			[
+				"flightab",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/controllers/FlightTabsCtrl.js"
+			],
+			[
+				"propsreso",
+				"src/components/ProposalPlusResources.component"
+			],
+			[
+				"proposresou",
+				"src/components/ProposalPlusResources.component"
+			],
+			[
+				"appli",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/application.js"
+			],
+			[
+				"cartserv",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/cartService.js"
+			],
+			[
+				"flighttab",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/controllers/FlightTabsCtrl.js"
+			],
+			[
+				"propos",
+				"src/pages/ProposalPlus.page"
+			],
+			[
+				"proposalpluscomp",
+				"src/components/ProposalPlusResources.component"
+			],
+			[
+				"accou",
+				"src/classes/AccountTriggerHandler.cls"
+			],
+			[
+				"trigger",
+				"src/classes/TriggerHandler.cls"
+			],
+			[
+				"fortest",
+				"src/triggers/ForTestingOnlyContact.trigger"
+			],
+			[
+				"account",
+				"src/classes/AccountHierarchyReassignment.cls"
+			],
+			[
+				"accounth",
+				"src/classes/AccountHierarchyReassignment.cls"
+			],
+			[
+				"proposalplusresources",
+				"src/components/ProposalPlusResources.component"
+			],
+			[
+				"proposalplusreso",
+				"src/components/ProposalPlusResources_Kjp.component"
+			],
+			[
+				"flight",
+				"src/pages/FlightBrowser.page"
+			],
+			[
+				"proposalplus_ss_",
+				"src/pages/ProposalPlus_SS_FlightsPartial.page"
+			],
+			[
+				"demographicsserv",
+				"resource-bundles/pp_ngApp_kpoorman.resource/pp_ngApp/services/DemographicsService.js"
+			],
+			[
+				"searchserv",
+				"resource-bundles/pp_ngApp_kpoorman.resource/pp_ngApp/services/searchService.js"
+			],
+			[
+				"_kjp",
+				"src/components/ProposalPlusResources_Kjp.component"
+			],
+			[
+				"proposalplusresource",
+				"src/components/ProposalPlusResources.component"
+			],
+			[
+				"indivi",
+				"src/pages/IndividualFlightView.page"
+			],
+			[
+				"proposalplusresources_alex",
+				"src/components/ProposalPlusResources_alex.component"
+			],
+			[
+				"_alex",
+				"src/pages/ProposalPlus_Alex.page"
+			],
+			[
+				"resources_kj",
+				"src/components/ProposalPlusResources_Kjp.component"
+			],
+			[
+				"proposalplus_k",
+				"src/components/ProposalPlusResources_Kjp.component"
+			],
+			[
+				"pdmcalloutser",
+				"src/classes/PDMCalloutService.cls"
+			],
+			[
+				"proposalplusresp",
+				"src/components/ProposalPlusResources.component"
+			],
+			[
+				"proposalplusresour",
+				"src/components/ProposalPlusResources_Kjp.component"
+			],
+			[
+				"indi",
+				"src/pages/IndividualFlightView.page"
+			],
+			[
+				"flightbrow",
+				"src/pages/FlightBrowser.page"
+			],
+			[
+				"proposalplus_output_planjsonprovider.cls",
+				"src/classes/ProposalPlus_Output_PlanJSONProvider.cls"
+			],
+			[
+				"cpq_cp_linktooppctrl",
+				"src/classes/CPQ_CP_LinkToOppCtrl.cls"
+			],
+			[
+				"cpq_summarymarketamountctrl",
+				"src/classes/CPQ_SummaryMarketAmountCtrl.cls"
+			],
+			[
+				"cpq_clonesalesplan",
+				"src/classes/CPQ_CloneSalesPlan.cls"
+			],
+			[
+				"cpq_opportunitytriggerhandler",
+				"src/classes/CPQ_opportunityTriggerHandler.cls"
+			],
+			[
+				"cpq_cp_testoutputscontroller",
+				"src/classes/CPQ_CP_TestOutputsController.cls"
+			],
+			[
+				"cpq_cp_generatecontrollertest",
+				"src/classes/CPQ_CP_GenerateControllerTest.cls"
+			],
+			[
+				"cpq_planoutputtriggerhandler",
+				"src/classes/CPQ_PlanOutputTriggerHandler.cls"
+			],
+			[
+				"cpq_cp_testgeneratectrl",
+				"src/classes/CPQ_CP_TestGenerateCtrl.cls"
+			],
+			[
+				"prposalale",
+				"src/pages/ProposalPlusAlex.page"
+			],
+			[
+				"pp_",
+				"src/classes/pp_SearchController.cls"
+			],
+			[
+				"cart",
+				"resource-bundles/ccpp.resource/ccpp/ng/services/cartService.js"
+			],
+			[
+				"flightbr",
+				"src/pages/FlightBrowser.page"
+			],
+			[
+				"indiv",
+				"src/pages/IndividualFlightView.page"
+			],
+			[
+				"pdmcallo",
+				"src/components/PDMCallouts.component"
+			],
+			[
+				"flightservi",
+				"resource-bundles/ccpp.resource/ccpp/ng/services/flightService.js"
+			],
+			[
+				"proto",
+				"src/classes/Proto_PlanJSON_NewStruct2.cls"
+			],
+			[
+				"protoplanjson_new",
+				"src/classes/Proto_PlanJSON_NewStruct2.cls"
+			],
+			[
+				"pdmcallouts",
+				"src/classes/PDMCalloutService.cls"
+			],
+			[
+				"pdm_pda",
+				"src/classes/PDM_PDAResults.cls"
+			],
+			[
+				"callout",
+				"src/classes/PDMCalloutService.cls"
+			],
+			[
+				"flightpage",
+				"src/pages/FlightBrowser.page"
+			],
+			[
+				"rest",
+				"src/classes/RestClient.cls"
+			],
+			[
+				"service",
+				"src/classes/PDMCalloutService.cls"
+			],
+			[
+				"prop",
+				"src/pages/ProposalPlus.page"
+			],
+			[
+				"poc",
+				"src/pages/pocSelectionPage.page"
+			],
+			[
+				"pocselec",
+				"src/pages/pocSelectionPage.page"
+			],
+			[
+				"pocq",
+				"src/classes/pocQueryController.cls"
+			],
+			[
+				"pp_fligh",
+				"src/pages/pp_flight.page"
+			],
+			[
+				"ngforcecon",
+				"src/classes/ngForceController.cls"
+			],
+			[
+				"pp_plan",
+				"src/classes/pp_PlanBuilderExt.cls"
+			],
+			[
+				"pp_flight",
+				"src/pages/pp_flight.page"
+			],
+			[
+				"pp",
+				"src/pages/pp_mvp.page"
+			],
+			[
+				"pocquery",
+				"src/classes/pocQueryController.cls"
+			],
+			[
+				"pocsel",
+				"src/pages/pocSelectionPage.page"
+			],
+			[
+				"pocgridv",
+				"src/pages/pocGridViewKendo.page"
+			],
+			[
+				"pp_pla",
+				"src/classes/pp_PlanBuilderExt.cls"
+			],
+			[
+				"n",
+				"resource-bundles/bp.resource/bananapants/ng/services/ngForce.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

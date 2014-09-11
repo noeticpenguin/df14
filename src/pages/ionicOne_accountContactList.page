@@ -1,0 +1,23 @@
+<apex:page showHeader="false"
+sidebar="false"
+standardStylesheets="false"
+docType="html-5.0"
+>
+
+<ion-view title="Contacts">
+<ion-nav-buttons side="left">
+	<button menu-toggle="right" class="button button-icon icon ion-navicon"></button>
+</ion-nav-buttons>
+<ion-content class="has-header">
+	<ion-list>
+		<ion-item ng-repeat="contact in contacts | orderBy:Name | groupBy:Name" ui-sref="app.contact({contactId: contact.Id})">
+			<i class="icon ion-ios7-person"></i>
+				<em>{{contact.Name}}</em> - {{contact.Title}}
+			<i class="float-right icon ion-ios7-arrow-right"></i>	
+		</ion-item>
+	</ion-list>
+</ion-content>
+</ion-view>
+
+	
+</apex:page>

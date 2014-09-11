@@ -1,0 +1,323 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "TestUtils", 
+    "tableDeclaration": {
+        "type": "TestUtils", 
+        "modifiers": [], 
+        "references": [], 
+        "location": {
+            "column": 27, 
+            "line": 1
+        }, 
+        "name": "TestUtils"
+    }, 
+    "key": "01po0000001jaxGAAQ", 
+    "variables": [
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 10, 
+                "line": 4
+            }, 
+            "name": "unique"
+        }, 
+        {
+            "type": "Profile", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 11, 
+                "line": 5
+            }, 
+            "name": "p"
+        }, 
+        {
+            "type": "User", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 8, 
+                "line": 6
+            }, 
+            "name": "u"
+        }, 
+        {
+            "type": "Account", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 11, 
+                "line": 15
+            }, 
+            "name": "a"
+        }, 
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 10, 
+                "line": 16
+            }, 
+            "name": "unique"
+        }, 
+        {
+            "type": "Boolean", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 43, 
+                "line": 22
+            }, 
+            "name": "doInsert"
+        }, 
+        {
+            "type": "Account", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 11, 
+                "line": 23
+            }, 
+            "name": "a"
+        }, 
+        {
+            "type": "Opportunity", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 15, 
+                "line": 24
+            }, 
+            "name": "o"
+        }, 
+        {
+            "type": "Boolean", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 43, 
+                "line": 34
+            }, 
+            "name": "doInsert"
+        }, 
+        {
+            "type": "Account", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 61, 
+                "line": 34
+            }, 
+            "name": "a"
+        }, 
+        {
+            "type": "Opportunity", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 15, 
+                "line": 35
+            }, 
+            "name": "o"
+        }, 
+        {
+            "type": "Integer", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 60, 
+                "line": 47
+            }, 
+            "name": "n"
+        }, 
+        {
+            "type": "Boolean", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 71, 
+                "line": 47
+            }, 
+            "name": "doInsert"
+        }, 
+        {
+            "type": "Account", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 11, 
+                "line": 48
+            }, 
+            "name": "a"
+        }, 
+        {
+            "type": "LIST", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 21, 
+                "line": 49
+            }, 
+            "name": "returnList"
+        }, 
+        {
+            "type": "Integer", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 16, 
+                "line": 50
+            }, 
+            "name": "i"
+        }, 
+        {
+            "type": "Integer", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 48, 
+                "line": 59
+            }, 
+            "name": "size"
+        }, 
+        {
+            "type": "Double", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 10, 
+                "line": 60
+            }, 
+            "name": "d"
+        }
+    ], 
+    "id": "01po0000001jaxGAAQ", 
+    "methods": [
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "getStandardTestUser", 
+            "parameters": [], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 21, 
+                "line": 3
+            }, 
+            "returnType": "User", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "getAccount", 
+            "parameters": [], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 24, 
+                "line": 14
+            }, 
+            "returnType": "Account", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "getOpp", 
+            "parameters": [
+                {
+                    "type": "Boolean", 
+                    "name": "doInsert"
+                }
+            ], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 28, 
+                "line": 22
+            }, 
+            "returnType": "Opportunity", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "getOpp", 
+            "parameters": [
+                {
+                    "type": "Boolean", 
+                    "name": "doInsert"
+                }, 
+                {
+                    "type": "Account", 
+                    "name": "a"
+                }
+            ], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 28, 
+                "line": 34
+            }, 
+            "returnType": "Opportunity", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "getNOpportunities", 
+            "parameters": [
+                {
+                    "type": "Integer", 
+                    "name": "n"
+                }, 
+                {
+                    "type": "Boolean", 
+                    "name": "doInsert"
+                }
+            ], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 34, 
+                "line": 47
+            }, 
+            "returnType": "LIST", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "getRandomNumber", 
+            "parameters": [
+                {
+                    "type": "Integer", 
+                    "name": "size"
+                }
+            ], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 24, 
+                "line": 59
+            }, 
+            "returnType": "Integer", 
+            "type": null
+        }
+    ]
+}

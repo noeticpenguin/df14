@@ -1,0 +1,14 @@
+<apex:component controller="ngAppResourceComponentController">
+
+<!-- CSS -->
+	<apex:stylesheet value="{!URLFOR($Resource.ionicOne, 'resources/lib/ionic/css/ionic.min.css')}" />
+	<apex:stylesheet value="{!URLFOR($Resource.ionicOne, 'resources/css/style.css')}" />
+
+<!-- Fonts -->
+	<apex:stylesheet value="{!URLFOR($Resource.ionicOne, 'resources/css/font-awesome.min.css')}" />
+
+<!-- This will conditionally load the JS files from localhost -->
+	<c:ionicOneLocal rendered="{!useLocalResources}"/>
+	<c:ionicOneServerside rendered="{!NOT(useLocalResources)}"/>
+
+</apex:component>
