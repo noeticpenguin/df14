@@ -7,3 +7,4 @@ config/.symbols/Drone_Tests.json
 resource-bundles/.DS_Store
 src/.DS_Store
 src/staticresources/ngf.resource
+deployTmp
