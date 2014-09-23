@@ -1,0 +1,21 @@
+<ion-view title="Accounts" id="accountList">
+	<ion-nav-buttons side="right">
+		<button menu-toggle="right" class="button button-icon icon ion-navicon"></button>
+	</ion-nav-buttons>
+	<ion-content class="has-header">
+		<ion-list>
+			<ion-item ng-repeat="t in types">
+				<div class="item item-divider">
+						{{t}}
+				</div>
+				<a ng-repeat="account in accounts | filter:t:strict" href="#/app/accounts/{{account.Id}}" style="text-decoration:none;">
+					<ion-item>
+					<i class="icon ion-ios7-people"></i>
+						{{account.Name}}
+					<i class="float-right icon ion-ios7-arrow-right"></i>
+					</ion-item>
+				</a>
+			</ion-item>
+		</ion-list>
+	</ion-content>
+</ion-view>

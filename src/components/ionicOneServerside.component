@@ -26,7 +26,7 @@
 	<apex:includeScript value="{!URLFOR($Resource.ionicOne, '/resources/lib/ionic/js/ionic-angular.min.js')}"/>
 
 <!-- ngForce -->
-	<apex:includeScript value="{!URLFOR($Resource.ionicOne, '/resources/ngForce/jsSrc/ngForce.js')}"/>
+	<apex:includeScript value="{!URLFOR($Resource.ionicOne, '/resources/ngforce/ngForceWithDependencies.min.js')}"/>
 
 <!-- Your Application Module Files -->
 	<apex:includeScript value="{!URLFOR($Resource.ionicOne, '/resources/app/app.js')}"/>
@@ -36,11 +36,19 @@
 	<apex:includeScript value="{!URLFOR($Resource.ionicOne, '/resources/app/run.js')}"/>
 
 <!-- Custom Angular Directives -->
+	<apex:includeScript value="{!URLFOR($Resource.ionicOne, '/resources/directives/angular-ladda.min.js')}"/>
 
 <!-- Custom Angular Services -->
 
 <!-- Custom Angular Controllers -->
+	<apex:includeScript value="{!URLFOR($Resource.ionicOne, '/resources/app/run.js')}"/>
+	<apex:includeScript value="{!URLFOR($Resource.ionicOne, 'resources/controllers/appCtrl.js')}"/>
+	<apex:includeScript value="{!URLFOR($Resource.ionicOne, 'resources/controllers/accountListCtrl.js')}"/>
+	<apex:includeScript value="{!URLFOR($Resource.ionicOne, 'resources/controllers/accountContactsList.js')}"/>
+	<apex:includeScript value="{!URLFOR($Resource.ionicOne, 'resources/controllers/contactCardCtrl.js')}"/>
 
 <!-- Custom Angular Filters -->
+	<apex:includeScript value="{!URLFOR($Resource.ionicOne, '/resources/filters/groupBy.js')}"/>
+
 
 </apex:component>

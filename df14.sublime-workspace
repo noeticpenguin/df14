@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"ngFor",
+				"ngForceConfig"
+			],
+			[
 				"is",
 				"isTest"
 			],
@@ -82,10 +90,6 @@
 			[
 				"name",
 				"nameMinusGender"
-			],
-			[
-				"ngFor",
-				"ngForceUtils"
 			],
 			[
 				"query",
@@ -510,93 +514,161 @@
 			[
 				"re",
 				"returnedData"
-			],
-			[
-				"requests",
-				"requests"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "src/classes/TriggerHandler_Tests.cls",
-			"settings":
-			{
-				"buffer_size": 1091,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/classes/TestUtils.cls",
-			"settings":
-			{
-				"buffer_size": 1775,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/classes/OpportunityTriggerHandler_Tests.cls",
-			"settings":
-			{
-				"buffer_size": 2218,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/triggers/OriginalOpportunity.trigger",
-			"settings":
-			{
-				"buffer_size": 617,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/classes/OpportunityTriggerHandler.cls",
-			"settings":
-			{
-				"buffer_size": 1561,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/triggers/OpportunityTrigger.trigger",
-			"settings":
-			{
-				"buffer_size": 195,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/kpoorman/Copy/Presentations/Triggers-The Right way/triggers Walkthrough.java",
-			"settings":
-			{
-				"buffer_size": 5060,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 103.0,
+		"height": 400.0,
 		"selected_items":
 		[
+			[
+				"depln",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"dep",
+				"MavensMate: Deploy To Server..."
+			],
+			[
+				"depn",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"convert to",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tabs",
+				"Snippet: ionic-tabs"
+			],
+			[
+				"depl",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Auto indent"
+			],
+			[
+				"form",
+				"Format Code"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"forma",
+				"Format Code"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"f",
+				"Format Code"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"Format Code"
+			],
+			[
+				"frm",
+				"File: Rename"
+			],
+			[
+				"github ",
+				"GitHub: Private Gist from Selection"
+			],
+			[
+				"clas",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"gith ",
+				"GitHub: Private Gist from Selection"
+			],
+			[
+				"visu ",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"visu ne",
+				"MavensMate: New Visualforce Component"
+			],
+			[
+				"visp ",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"vis pag",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"visual",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"visualpage",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"vispa",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"visu page",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"visualforce page",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"resource",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"compon",
+				"MavensMate: New Visualforce Component"
+			],
+			[
+				"mavens",
+				"MavensMate: Edit Project..."
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
 			[
 				"trigger",
 				"MavensMate: New Apex Trigger"
 			],
 			[
-				"tabs",
-				"Indentation: Convert to Tabs"
-			],
-			[
 				"astyt",
 				"SublimeAStyleFormatter: Format Current File"
-			],
-			[
-				"form",
-				"Format Code"
 			],
 			[
 				"run apex",
@@ -615,18 +687,6 @@
 				"Set Syntax: JavaScript"
 			],
 			[
-				"visual",
-				"MavensMate: New Visualforce Page"
-			],
-			[
-				"depl",
-				"MavensMate: Deploy Resource Bundle..."
-			],
-			[
-				"dep",
-				"MavensMate: Deploy To Server..."
-			],
-			[
 				"visualf",
 				"MavensMate: New Visualforce Page"
 			],
@@ -635,20 +695,12 @@
 				"MavensMate: Deploy Resource Bundle..."
 			],
 			[
-				"resource",
-				"MavensMate: Create Resource Bundle..."
-			],
-			[
 				"resour",
 				"MavensMate: Create Resource Bundle..."
 			],
 			[
 				"resou",
 				"MavensMate: Create Resource Bundle..."
-			],
-			[
-				"format",
-				"Format Code"
 			],
 			[
 				"javasc",
@@ -667,10 +719,6 @@
 				"Set Syntax: JavaScript"
 			],
 			[
-				"depn",
-				"MavensMate: Deploy Resource Bundle..."
-			],
-			[
 				"depl res",
 				"MavensMate: Deploy Resource Bundle..."
 			],
@@ -687,18 +735,6 @@
 				"SublimeLinter: Lint This View"
 			],
 			[
-				"instal",
-				"Package Control: Install Package"
-			],
-			[
-				"xml",
-				"Set Syntax: XML"
-			],
-			[
-				"list p",
-				"Package Control: List Packages"
-			],
-			[
 				"evernote",
 				"Evernote: Search Note"
 			],
@@ -711,24 +747,12 @@
 				"Set Syntax: JSON"
 			],
 			[
-				"htm",
-				"Set Syntax: HTML"
-			],
-			[
 				"paclist",
 				"Package Control: List Packages"
 			],
 			[
 				"pyth",
 				"Set Syntax: Python"
-			],
-			[
-				"compon",
-				"MavensMate: New Visualforce Component"
-			],
-			[
-				"depln",
-				"MavensMate: Deploy Resource Bundle..."
 			],
 			[
 				"deplo",
@@ -741,10 +765,6 @@
 			[
 				"beaut",
 				"Javascript Beautify"
-			],
-			[
-				"forma",
-				"Format Code"
 			],
 			[
 				"deplng",
@@ -773,10 +793,6 @@
 			[
 				"sql",
 				"Set Syntax: SQL"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"ascii",
@@ -887,15 +903,7 @@
 				"Tasks: New document"
 			],
 			[
-				"html",
-				"Set Syntax: HTML"
-			],
-			[
 				"formatcode",
-				"Format Code"
-			],
-			[
-				"f",
 				"Format Code"
 			],
 			[
@@ -1029,73 +1037,9 @@
 			[
 				"apex sc",
 				"MavensMate: New Apex Script..."
-			],
-			[
-				"apextest",
-				"MavensMate: Run Apex Tests..."
-			],
-			[
-				"sublima",
-				"Sublimall: Upload"
-			],
-			[
-				"upload",
-				"Sublimall: Upload"
-			],
-			[
-				"prefs",
-				"Preferences: SublimeLinter Settings – User"
-			],
-			[
-				"sublimall upload",
-				"Sublimall: Upload"
-			],
-			[
-				"apexte",
-				"MavensMate: Run Apex Tests..."
-			],
-			[
-				"rtest",
-				"MavensMate: Run Apex Tests..."
-			],
-			[
-				"apex",
-				"MavensMate: New Apex Class"
-			],
-			[
-				"clas",
-				"MavensMate: New Apex Class"
-			],
-			[
-				"apextes",
-				"MavensMate: Run Apex Tests..."
-			],
-			[
-				"calss",
-				"MavensMate: New Apex Class"
-			],
-			[
-				"tab",
-				"Indentation: Convert to Tabs"
-			],
-			[
-				"apextests",
-				"MavensMate: Run Apex Tests..."
-			],
-			[
-				"align",
-				"Preferences: Alignment Key Bindings – Default"
-			],
-			[
-				"alignment",
-				"Preferences: Alignment File Settings – Default"
-			],
-			[
-				"apexc",
-				"MavensMate: New Apex Class"
 			]
 		],
-		"width": 601.0
+		"width": 610.0
 	},
 	"console":
 	{
@@ -1117,15 +1061,81 @@
 	"expanded_folders":
 	[
 		"/Users/kpoorman/Documents/mmProjects/df14",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/app",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/controllers",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/templates",
 		"/Users/kpoorman/Documents/mmProjects/df14/src",
 		"/Users/kpoorman/Documents/mmProjects/df14/src/classes",
-		"/Users/kpoorman/Documents/mmProjects/df14/src/triggers"
+		"/Users/kpoorman/Documents/mmProjects/df14/src/components",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/pages",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/staticresources"
 	],
 	"file_history":
 	[
+		"/Users/kpoorman/Documents/mmProjects/df14/src/components/ionicOneLocal.component",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/components/ionicOneServerside.component",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/templates/contactCard.html",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/templates/singleAccount.html",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/templates/accountsList.html",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/templates/menu.html",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/ionicOne.page",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/app/routes.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/ionicOne_menu.page",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/components/ionicOneResources.component",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/ionicOne_accountsList.page",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/app/run.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/app/constants.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/angular_config.page",
+		"/Users/kpoorman/Documents/mmProjects/df14/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/lib/help/formatter.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/ngForceRestAPIDemo.page",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-remoteObjects.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/node_modules/grunt/lib/grunt/fail.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/classes/ngForceController.cls",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-visualForceRemoting.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/app/config.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/controllers/contactCardCtrl.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/ionicOne_ContactCard.page",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/ionicOne_accountContactList.page",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/masterApp.page",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/components/localhostResources.component",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/controllers/masterAppPageCtrl.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/Gruntfile.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/classes/Drone_Tests.cls",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/ngForce-dependencies.min.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/app/updates to droneIO talk.txt",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/tests/unitTests/jquerySpec.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/Readme.md",
+		"/Users/kpoorman/Documents/mmProjects/df14/package.json",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/ionicOne_playlist.page",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/app/app.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/controllers/accountContactsList.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/controllers/accountListCtrl.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/ionicOne_playlists.page",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/filters/groupBy.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ng/angular-animate.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/lib/angular-growl.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/staticresources/app.resource",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/controllers/appCtrl.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/ionicOne_browse.page",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/ionicOne_search.page",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/controllers/playlistsCtrl.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/resources/controllers/controllers.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/ionicOne/app/config.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/ionicOne/app/app copy.js",
+		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/ionicOne.resource/ionicOne/app/app.js",
+		"/Users/kpoorman/Copy/Presentations/Triggers-The Right way/triggers Walkthrough.java",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/triggers/OpportunityTrigger.trigger",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/classes/TriggerHandler_Tests.cls",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/classes/TestUtils.cls",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/classes/OpportunityTriggerHandler_Tests.cls",
+		"/Users/kpoorman/Documents/mmProjects/df14/src/triggers/OriginalOpportunity.trigger",
+		"/Users/kpoorman/Documents/mmProjects/df14/config/.settings",
 		"/Users/kpoorman/Documents/mmProjects/df14/src/classes/OpportunityTriggerHandler.cls",
 		"/Users/kpoorman/Documents/mmProjects/df14/src/classes/TriggerHandler.cls",
-		"/Users/kpoorman/Documents/mmProjects/df14/src/triggers/OpportunityTrigger.trigger",
 		"/Users/kpoorman/Library/Application Support/Sublime Text 3/Packages/User/Apex.sublime-settings",
 		"/Users/kpoorman/Library/Application Support/Sublime Text 3/Packages/User/Java.sublime-settings",
 		"/Users/kpoorman/Documents/mmProjects/df14/src/components/ngApp.component",
@@ -1135,17 +1145,12 @@
 		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/app/config.js",
 		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/app/constants.js",
 		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/app/routes.js",
-		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/masterApp.page",
 		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForceWithDependencies.min.js",
-		"/Users/kpoorman/Documents/mmProjects/df14/src/components/localhostResources.component",
 		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce2/ngForceWithDependencies.min.js",
 		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce2/ngForce-dependencies.min.js",
 		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/app/run.js",
-		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/controllers/masterAppPageCtrl.js",
 		"/Users/kpoorman/Documents/mmProjects/df14/src/pages/df14Demo.page",
 		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-sfTemplate.js",
-		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-visualForceRemoting.js",
-		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-remoteObjects.js",
 		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-sfrquery.js",
 		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-sfrfile.js",
 		"/Users/kpoorman/Documents/mmProjects/df14/resource-bundles/app.resource/resources/ngforce/ngForce-sfrBackend.js",
@@ -1198,59 +1203,7 @@
 		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/ppSettingsService.js",
 		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/cartService.js",
 		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/ClearChannel_ProposalPlus_ppDevK.sublime-project",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/grunt/jasmine.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/grunt/copy.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/grunt/availabletasks.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/pages/PP_SS_FlightPanelsPartial.page",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/kendoGridService.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_js.resource/pp_js/spin.min.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/directives/angular-ladda.min.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_css.resource/pp_css/css/ladda-themeless.min.css",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_js.resource/pp_js/ladda.min.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/marketsService.js",
-		"/Users/kpoorman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/kpoorman/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
-		"/Users/kpoorman/Dropbox/Mackup/Library/Application Support/Sublime Text 3/Packages/User/base16-ocean.dark (SL).tmTheme",
-		"/Users/kpoorman/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/pages/PP_advancedSearchModal.page",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/package.json",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/package.xml",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/temporary/node_modules/package/lib/package.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/deploy/kevinp@madronasg.com.cco.appirioc2/2014-03-12 14:24:23/unpackaged/triggers/PlansAndFlightsTrigger.trigger",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/.grunt/grunt-contrib-jasmine/resource-bundles/pp_ngApp.resource/pp_ngApp/services/cartService.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/cors_server.py",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/server.pem",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_js.resource/pp_js/queryParams.js",
-		"/Users/kpoorman/Library/Application Support/Sublime Text 3/Packages/Evernote/Evernote.sublime-settings",
-		"/Users/kpoorman/Library/Application Support/Sublime Text 3/Packages/User/Evernote.sublime-settings",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/bin/coverage/index.html",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/import-no-semi.less",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/node_modules/grunt-template-jasmine-istanbul/node_modules/istanbul/lib/instrumenter.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/install.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/.grunt/grunt-contrib-jasmine/es5-shim.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/node_modules/grunt-contrib-less/node_modules/less/lib/less/extend-visitor.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/node_modules/grunt/lib/grunt/event.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/controllers/gridViewCtrl.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/networkService.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/searchService.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/classes/PDMCalloutService_Test.cls",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/pages/TextEntryPopup.page",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/classes/TriggerHandler.cls",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/README.md",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/classes/PP_Resources_Auto_Ctrl.cls",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/node_modules/grunt/node_modules/minimatch/node_modules/lru-cache/test/foreach.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/triggers/PlansAndFlightsTrigger.trigger",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/.grunt/grunt-contrib-jasmine/resource-bundles/pp_ngApp.resource/pp_ngApp/services/demographicsService.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/ccpp_output.resource/outputApp/services/demographicsService.js",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/objects/Demographic__c.object",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/templates/PP_Nav.html",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/templates/PP_Pricing.html",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/classes/PDM_PDAResults.cls",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/objects/PP_Panel_Proximity__c.object",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/pages/PP_Nav.page",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/src/staticresources/pp_ngApp.resource",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/data/Grid_Control_Fieldset_Data.csv",
-		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/services/gridColumnService.js"
+		"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/grunt/jasmine.js"
 	],
 	"find":
 	{
@@ -1261,6 +1214,7 @@
 		"height": 96.0,
 		"where_history":
 		[
+			"/Users/kpoorman/Documents/mmProjects/df14/src/pages",
 			"<project>",
 			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp/controllers",
 			"/Users/kpoorman/Documents/mmProjects/ClearChannel_ProposalPlus_ppDevK/resource-bundles/pp_ngApp.resource/pp_ngApp",
@@ -1318,6 +1272,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"domain",
+			"sfr",
+			"send(",
+			"jasmine.resource",
+			"pp_ngApp",
+			"login",
+			"menu-close",
+			"nav-clear",
+			".html",
+			"templates/",
+			"$Resource.app",
 			"oth",
 			"newFoo__cMap",
 			"ngforce",
@@ -1434,18 +1399,7 @@
 			"getImpressions",
 			"demograph",
 			"demographics",
-			"vfr.",
-			"vertical",
-			"ProductKey__c",
-			"PanelDemoAudience",
-			" });",
-			",",
-			": ",
-			"$log.log",
-			"$log",
-			"schemaAndColumns",
-			"\\n",
-			"\""
+			"vfr."
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1453,6 +1407,13 @@
 		"regex": false,
 		"replace_history":
 		[
+			"this.send(",
+			"ngf.resource",
+			"menu-close=\"true\"",
+			"nav-clear=\"true\"",
+			"",
+			"/apex/ionicOne_",
+			"$Resource.ionicOne",
 			",",
 			":",
 			"",
@@ -1573,14 +1534,7 @@
 			"[[",
 			"bananapants/",
 			".bp,",
-			"Cascade_Insert_Id2__c",
-			"jsonTxt",
-			"readOnly",
-			"<td>$1</td>",
-			"inputText",
-			"inputField",
-			"",
-			"', "
+			"Cascade_Insert_Id2__c"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -1591,1257 +1545,14 @@
 	"groups":
 	[
 		{
-			"selected": 4,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "src/classes/TriggerHandler_Tests.cls",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1091,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1089,
-								1089
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"sublime_auto_complete": true,
-							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/classes/TestUtils.cls",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1775,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								985,
-								985
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"sublime_auto_complete": true,
-							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 272.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/classes/OpportunityTriggerHandler_Tests.cls",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2218,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1079,
-								1079
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"sublime_auto_complete": true,
-							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 776.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "src/triggers/OriginalOpportunity.trigger",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 617,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								590,
-								590
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"sublime_auto_complete": true,
-							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "src/classes/OpportunityTriggerHandler.cls",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1561,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								744,
-								744
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "src/triggers/OpportunityTrigger.trigger",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 195,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								195
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"sublime_auto_complete": true,
-							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/kpoorman/Copy/Presentations/Triggers-The Right way/triggers Walkthrough.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5060,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								752,
-								752
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"sublime_auto_complete": true,
-							"syntax": "Packages/Java/Java.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 39.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 25.0
+		"height": 26.0
 	},
 	"input":
 	{
@@ -2881,7 +1592,7 @@
 	"project": "df14.sublime-project",
 	"replace":
 	{
-		"height": 72.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -2889,6 +1600,18 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"angular",
+				"src/pages/angular_config.page"
+			],
+			[
+				"ang",
+				"src/pages/angular_config.page"
+			],
+			[
+				"angu",
+				"src/pages/angular_config.page"
+			],
 			[
 				"ngforce",
 				"resource-bundles/pp_ngApp.resource/pp_ngApp/services/ngForce.js"
@@ -3388,18 +2111,6 @@
 			[
 				"pocsel",
 				"src/pages/pocSelectionPage.page"
-			],
-			[
-				"pocgridv",
-				"src/pages/pocGridViewKendo.page"
-			],
-			[
-				"pp_pla",
-				"src/classes/pp_PlanBuilderExt.cls"
-			],
-			[
-				"n",
-				"resource-bundles/bp.resource/bananapants/ng/services/ngForce.js"
 			]
 		],
 		"width": 0.0

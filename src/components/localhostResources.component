@@ -23,6 +23,8 @@
 
 <!-- ngForce -->
 	<script type="text/javascript" src="https://localhost:8000/resources/ngforce/ngForceWithDependencies.min.js"/>
+	<script type="text/javascript" src="https://localhost:8000/resources/ngforce/ngForce-visualForceRemoting.js"/>
+
 	<!-- <script type="text/javascript" src="https://localhost:8000/resources/ngforce/ngForce.min.js"/> -->
 <!-- 	<script type="text/javascript" src="https://localhost:8000/resources/ngforce2/ngForce.annotated.js"/>
 	<script type="text/javascript" src="https://localhost:8000/resources/ngforce2/ngForce-multipart.annotated.js"/>

@@ -4,7 +4,7 @@ standardStylesheets="false"
 docType="html-5.0"
 >
 
-	<ion-view title="Accounts">
+	<ion-view title="Accounts" id="accountList">
 		<ion-nav-buttons side="left">
 			<button menu-toggle="right" class="button button-icon icon ion-navicon"></button>
 		</ion-nav-buttons>
@@ -14,7 +14,8 @@ docType="html-5.0"
 					<div class="item item-divider">
 					  {{t}}
 					</div>
-					<ion-item ng-repeat="account in accounts | filter:t:strict" ui-sref="app.single({ accountId: account.Id})">
+					<ion-item ng-repeat="account in accounts | filter:t:strict" href="#/app/accounts/{{account.Id}}" target="_self">
+					<!-- ui-sref="app.single({ accountId: account.Id})" -->
 						<i class="icon ion-ios7-people"></i>
 							{{account.Name}} 
 						<i class="float-right icon ion-ios7-arrow-right"></i>	

@@ -1,0 +1,16 @@
+<ion-view title="Contacts">
+<ion-nav-buttons side="right">
+	<button menu-toggle="right" class="button button-icon icon ion-navicon"></button>
+</ion-nav-buttons>
+<ion-content class="has-header">
+	<ion-list>
+		<a ng-repeat="contact in contacts | orderBy:Name | groupBy:Name"  href="#/app/contact/{{contact.Id}}" style="text-decoration:none;">
+			<ion-item>
+				<i class="icon ion-ios7-person"></i>
+					<em>{{contact.Name}}</em> - {{contact.Title}}
+				<i class="float-right icon ion-ios7-arrow-right"></i>	
+			</ion-item>
+		</a>
+	</ion-list>
+</ion-content>
+</ion-view>

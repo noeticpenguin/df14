@@ -126,9 +126,10 @@ global class ngForceController {
 		return JSON.serialize(result);
 	}
 
-    /* 
-     * These methods are available only after you have established a fieldset 
-     * on an object.
+	/*
+	 * These methods are available only after you have established a fieldset
+	 * on an object.
+	 */
 	@remoteAction
 	public static String describeFieldSet(String objtype, String fieldSetName) {
 		Schema.SObjectType token = Schema.getGlobalDescribe().get(objtype);
@@ -179,7 +180,7 @@ global class ngForceController {
 		system.debug(queryString);
 		return JSON.serialize(database.Query(queryString));
 	}
-	*/
+
 	@remoteAction
 	public static String getPicklistValues(String objtype, String fieldName) {
 		Schema.SObjectType token = Schema.getGlobalDescribe().get(objtype);
@@ -201,14 +202,14 @@ global class ngForceController {
 		List<sObject> records;
 		try {
 			records = Database.query(soql);
-            system.debug('somehow passed '+ records);
+			system.debug('somehow passed ' + records);
 		} catch (QueryException qe) {
-            system.debug('caught query exception');
-            return makeError(qe.getMessage(), 'INVALID_QUERY');
-        } catch(Exception e){
-            system.debug('caught exception');
-            return makeError(e.getMessage(), 'INVALID_QUERY');
-        }
+			system.debug('caught query exception');
+			return makeError(qe.getMessage(), 'INVALID_QUERY');
+		} catch (Exception e) {
+			system.debug('caught exception');
+			return makeError(e.getMessage(), 'INVALID_QUERY');
+		}
 		List<Select2Data> sData = new List<Select2Data>();
 		for (sObject r : records) {
 			Select2Data s = new Select2Data();
@@ -265,8 +266,8 @@ global class ngForceController {
 			return '[{"message":"The requested resource does not exist","errorCode":"NOT_FOUND"}]';
 		}
 
-        Map<String, Schema.sObjectField> targetFields = targetType.getDescribe().fields.getMap();
-        
+		Map<String, Schema.sObjectField> targetFields = targetType.getDescribe().fields.getMap();
+
 		SObject obj = targetType.newSObject();
 
 		Map<String, Object> fieldMap = null;
@@ -322,7 +323,7 @@ global class ngForceController {
 					if (targetFields.get(property).getDescribe().getType() == Schema.DisplayType.Date) {
 						obj.put(property, Date.valueOf((String)current.get(property)));
 					} else if ( targetFields.get(property).getDescribe().getType() == Schema.DisplayType.DateTime) {
-                                                obj.put(property, DateTime.valueOf((String)current.get(property)));
+						obj.put(property, DateTime.valueOf((String)current.get(property)));
 					} else if (targetFields.get(property).getDescribe().getType() == Schema.DisplayType.Percent ||
 					           targetFields.get(property).getDescribe().getType() == Schema.DisplayType.Currency) {
 						obj.put(property, String.valueOf(current.get(property)) == '' ? null : Decimal.valueOf((String)current.get(property)));
@@ -388,7 +389,7 @@ global class ngForceController {
 		try {
 			update objs;
 		} catch (DMLException dmle) {
-            return makeError(dmle.getMessage(), 'DML_ERROR');
+			return makeError(dmle.getMessage(), 'DML_ERROR');
 		}
 
 		List<Id> rids = new List<Id>();
@@ -526,16 +527,16 @@ global class ngForceController {
 
 	@remoteAction
 	public static String search(String sosl) {
-        system.debug('$$$$$$$$$'+sosl);
+		system.debug('$$$$$$$$$' + sosl);
 		List<List<SObject>> result;
 		try {
 			result = Search.query(sosl);
 		} catch (SearchException se) {
 			return '[{"message":"' + se.getMessage() + '","errorCode":"INVALID_SEARCH"}]';
-        } catch (Exception e) {
-            system.debug('$$$$$$$$$$$' + e.getCause());
-			return '[{"message":"' + e.getMessage() + '","errorCode":"INVALID_SEARCH"}]';            
-        }
+		} catch (Exception e) {
+			system.debug('$$$$$$$$$$$' + e.getCause());
+			return '[{"message":"' + e.getMessage() + '","errorCode":"INVALID_SEARCH"}]';
+		}
 
 		return JSON.serialize(result);
 	}

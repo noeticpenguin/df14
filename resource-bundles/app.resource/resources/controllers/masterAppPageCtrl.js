@@ -1,6 +1,6 @@
 angular.module('df14')
 	.controller('masterAppPageCtrl',
-		function($scope, $timeout, $filter, $rootScope, $q, $state, sfrquery, sfr, $window, $modal, $log,
+		function($scope, $timeout, $filter, $rootScope, $q, $state, sfrquery, vfr, sfr, $window, $modal, $log,
 			Version) {
 
 			// Here we'll setup the $scope variable which is available to our view template 
@@ -37,4 +37,11 @@ angular.module('df14')
 					// in the js console
 					$log.error("Caught an Error trying to retrieve soql query results", e);
 				});
+
+	// $log.log(vfr);
+	// var q = vfr.query('SELECT id, Name FROM Contact');
+	// $log.log(vfr);
+	// q.then(function(x) {
+	// 	$log.log('vfr ', x);
+	// });
 		});

@@ -1,50 +1,33 @@
 angular.module('ionicOne')
 
-.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
-	// $locationProvider.html5Mode(true).hashPrefix('!');
+.config(function($stateProvider, $urlRouterProvider, $locationProvider, ngForceConfig) {
+	// $locationProvider.html5Mode(true)
+
+	var sf1SafeTemplatePath = ngForceConfig.resourceUrl.split('?')[0] + "/resources/templates/";
+
 	$stateProvider
-
-	.state('app', {
-		url: "/app",
-		abstract: true,
-		templateUrl: "/apex/ionicOne_menu",
-		controller: 'AppCtrl'
-	})
-
-	// .state('app.search', {
-	// 	url: "/search",
-	// 	views: {
-	// 		'menuContent': {
-	// 			templateUrl: "/apex/ionicOne_search"
-	// 		}
-	// 	}
-	// })
-
-	// .state('app.browse', {
-	// 	url: "/browse",
-	// 	views: {
-	// 		'menuContent': {
-	// 			templateUrl: "/apex/ionicOne_browse"
-	// 		}
-	// 	}
-	// })
-
+		.state('app', {
+			url: "/app",
+			abstract: true,
+			templateUrl: sf1SafeTemplatePath + "menu.html",
+			controller: 'AppCtrl'
+		})
 	// Master list of Accounts
 	.state('app.accounts', {
 		url: "/accounts",
 		views: {
 			'menuContent': {
-				templateUrl: "/apex/ionicOne_accountsList",
+				templateUrl: sf1SafeTemplatePath + "accountsList.html",
 				controller: 'accountListCtrl'
 			}
 		}
 	})
 
 	.state('app.single', {
-		url: "/account/:accountId",
+		url: "/accounts/:accountId",
 		views: {
 			'menuContent': {
-				templateUrl: "/apex/ionicOne_accountContactList",
+				templateUrl: sf1SafeTemplatePath + "singleAccount.html",
 				controller: 'accountContactsList'
 			}
 		}
@@ -54,7 +37,7 @@ angular.module('ionicOne')
 		url: "/contact/:contactId",
 		views: {
 			'menuContent': {
-				templateUrl: "/apex/ionicOne_ContactCard",
+				templateUrl: sf1SafeTemplatePath + "contactCard.html",
 				controller: 'contactCardCtrl'
 			}
 		}

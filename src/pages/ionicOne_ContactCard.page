@@ -18,7 +18,7 @@ docType="html-5.0"
 	  </div>
 
 	  <div class="item item-body">
-	    <img class="full-image" src="http://thecatapi.com/api/images/get?format=src"/>
+	    <img class="full-image" src="http://placepuppy.it/300px/300px" width="300px" height="300px"/>
 	    <p>
 	      {{contact.Description}}
 	    </p>

@@ -1,8 +1,3 @@
-<apex:page showHeader="false"
-sidebar="false"
-standardStylesheets="false"
-docType="html-5.0"
->
 <ion-side-menus>
 
   <ion-pane ion-side-menu-content="true">
@@ -18,20 +13,12 @@ docType="html-5.0"
     </header>
     <ion-content class="has-header">
       <ion-list>
-<!--         <ion-item nav-clear="true" menu-close="true" ng-click="login()">
-          Login
-        </ion-item>
-        <ion-item nav-clear="true" menu-close="true" href="#/app/search">
-          Search
-        </ion-item> -->
-        <ion-item nav-clear="true" menu-close="true" href="#app/accounts">
-          Browse
-        </ion-item>
-<!--         <ion-item nav-clear="true" menu-close="true" href="#/app/">
-          Playlists
-        </ion-item> -->
+        <a href="#/app/accounts" style="text-decoration:none;">
+          <ion-item nav-clear="true" menu-close="true" >
+            All Accounts 
+          </ion-item>
+        </a>
       </ion-list>
     </ion-content>
   </ion-side-menu>
 </ion-side-menus>
-</apex:page>
