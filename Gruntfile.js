@@ -32,7 +32,7 @@ module.exports = function(grunt) {
 					],
 					version: '2.0.0',
 					keepRunner: true,
-					template: require('grunt-template-jasmine-istanbul'),
+					//template: require('grunt-template-jasmine-istanbul'),
 					templateOptions: {
 						files: '!resource-bundles/pp_js.resource/**',
 						coverage: 'bin/coverage/coverage.json',
