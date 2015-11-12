@@ -9,3 +9,4 @@ This repository also contains the example Gruntfile.js, package.json and associa
 This repository also contains all the needed source code for the example Ionic on Visualforce application
 Look under resources-bundles. 
 
+Look, a change!
